@@ -5,6 +5,7 @@
 </h1>
 
 <h3 align="center">A passionate software developer from India 🇮🇳</h3>
+<h3 align="center">Website Developer @<a href="https://www.w3schools.com](https://www.maximizemarketresearch.com/">Maximize</a></h3>
 
 <br/>
 
@@ -14,7 +15,7 @@
  
  🌱 I’m currently learning **Data Structure and Alogorithms using C++**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/clexflex/clexflex/issues)**
+💬 Ask me about **PHP, MySql, Node.js, React, Firebase... or anything [here](https://github.com/clexflex/clexflex/issues)**
 
 
  </div>
